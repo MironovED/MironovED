@@ -22,9 +22,6 @@
 
 - [Ссылка на сертификаты](https://github.com/MironovED/MironovED/tree/master/certificate)
 
-- [Ссылка на резюме в формате word](https://github.com/MironovED/MironovED/blob/master/docs/QA_Engineer_MironovED.docx)
-
-- [Ссылка на резюме в формате pdf](https://github.com/MironovED/MironovED/blob/master/docs/QA_Engineer_MironovED.pdf)
 
 ***
 ### **Контакты**
