@@ -20,6 +20,9 @@
 
 [Ссылка на репозиторий](https://github.com/MironovED/SingleWindow)
 
+4. **_Автоматизация модуля "ФНС ИНН" (Java/selenium)_**
+   [Ссылка на репозиторий](https://github.com/MironovED/fns_inn_fl.git)
+
 ---
 
 ### **Сертификаты, документы**
